@@ -14,3 +14,4 @@ Many solutions are being suggested to solve this problem. AI is one among them a
 <li>Reduced the cost of food.
 <li>On the basis of popular dish trained they can hire a cook.
 <li>Help treduceed the cost of food and focused more on amenities. 
+![image](https://user-images.githubusercontent.com/50474388/168456167-b6ecc25a-2e52-4a02-9a1a-bb2962fdeb47.png)
