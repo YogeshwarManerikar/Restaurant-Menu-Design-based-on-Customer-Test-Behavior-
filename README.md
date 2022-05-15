@@ -17,3 +17,20 @@ Many solutions are being suggested to solve this problem. AI is one among them a
 </br>
 
 ![image](https://user-images.githubusercontent.com/50474388/168456167-b6ecc25a-2e52-4a02-9a1a-bb2962fdeb47.png)
+
+## Results from plots
+<ul>
+  <li>
+    The customers come to the restaurant mostly during the 'Lunch' shift as evident from the shift count value.
+    <li>One would assume that weekend count will be the most but the count for weekday is more. This is because it is the count of 5 weekdays to count of 2 weekend days.
+    <li>Sales on all days is almost the same excepts Monday.
+    <li>People come to the hotel to party as a group of 5. Based on this the hotel could give some discounts to party size of 5 to bring in more customers.
+    <li>Breads is the most preferred food in the MenuCategory.
+    <li>People order just one quantity most often.
+    <li>Sales on almost all the months is the same.
+    <li>Most customers come to eat around 12 which is inline with the higher 'Lunch' count.
+    <li>Count for PM is more because the hotel opens around 11 AM.
+    <li>Most of the customers go for vegetarian foods. Note that vegetarian includes sweets and snacks as well.
+      </ul>
+      
+## 
