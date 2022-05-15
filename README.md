@@ -34,10 +34,10 @@ Many solutions are being suggested to solve this problem. AI is one among them a
       </ul>
       
 ## Party size and regular
-<ul>
+
 
 From the above plots we can find that there are serious deviations from the normal trend we saw earlier. Deviations:
-
+<ul>
     <li>PartySize of 5 predominantly comes for dinner.
     <li>Weekends dominate weekday.
     <li>Sales on Saturday and Sunday are the highest which was not the case with the normal trend.
