@@ -1,4 +1,5 @@
 # Restaurant-Menu-Design-based-on-Customer-Test-Behavior
+![image](https://user-images.githubusercontent.com/50474388/168456058-786072d0-0113-4760-9a1a-57d2d0702314.png)
 Identifying the trend in the sales of food items. So it helps the restaurant to predict the day-by-day food master menu. 
 ## Why this field?
  <p> A lot of food is being wasted across the country. Restaurants plan its menu according to the test behavior pattern of customers. Restaurants can get max profit with minimum utilization of resources.  
