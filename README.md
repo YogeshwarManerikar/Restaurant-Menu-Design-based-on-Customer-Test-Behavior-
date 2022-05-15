@@ -7,7 +7,7 @@ A lot of food is being wasted across the country. Restaurants plan its menu acco
 All previously bill data is with restaurants. I used that data to build one master menu for a restaurant 
 Many solutions are being suggested to solve this problem. AI is one among them and I strongly believe that AI can contribute a lot to this field. AI can not only solve problems in this field but it can also optimize the techniques that are being used for decades.
 
-## Why this field?
+## TARGET SPECIFICATIONS:-
 <ul>
 <li>Customer satisfaction.</li>
 <li>Reduced the cost of food.</li>
