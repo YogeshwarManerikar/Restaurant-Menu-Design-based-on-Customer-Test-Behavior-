@@ -33,4 +33,16 @@ Many solutions are being suggested to solve this problem. AI is one among them a
     <li>Most of the customers go for vegetarian foods. Note that vegetarian includes sweets and snacks as well.
       </ul>
       
-## 
+## Party size and regular
+<ul>
+
+From the above plots we can find that there are serious deviations from the normal trend we saw earlier. Deviations:
+
+    <li>PartySize of 5 predominantly comes for dinner.
+    <li>Weekends dominate weekday.
+    <li>Sales on Saturday and Sunday are the highest which was not the case with the normal trend.
+    <li>Breads is still the most preferred one but Desserts comes in second place whereas starter came in second place for the whole dataset.
+    <li>Only hours 12 and 19 are the sales hours for PartySize of 5.
+
+
+
